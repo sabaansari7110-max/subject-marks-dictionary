@@ -1,5 +1,5 @@
 
-marks={}
+marks={}  
 x=int(input("enter phy:"))
 marks.update({"phy": x})
 
@@ -8,5 +8,6 @@ marks.update({"chem": x})
 
 x= int(input("enter bio:"))
 marks.update({"bio": x})
+
 
 print(marks)
