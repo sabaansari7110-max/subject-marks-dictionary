@@ -14,8 +14,10 @@ A simple python program that takes of three subjects the user and stores them a 
 Python 3
 
 # Example output:
-<br>
+
+```python
 {'phy: 85, 'chem: 96, 'bio': 98 }
+```
 
 # How to Run:
 <br>
