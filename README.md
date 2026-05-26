@@ -1,7 +1,7 @@
 # subject-marks-dictionary
 A simple python program that takes of three subjects the user and stores them a dictionary. it helps in understanding dictionary creation, user input, and key-value pairs in python 
 
-#features:
+# features:
 <br>
 1.Take subject marks as user input.
 <br>
@@ -9,15 +9,15 @@ A simple python program that takes of three subjects the user and stores them a 
 <br>
 3.Uses subject names as keys and marks as value.
 
-#Techonologies used:
+# Techonologies used:
 <br>
 Python 3
 
-#Example output:
+# Example output:
 <br>
 {'phy: 85, 'chem: 96, 'bio': 98 }
 
-#How to Run:
+# How to Run:
 <br>
 1.Make sure pyhton is installed.
 <br>
@@ -26,7 +26,7 @@ Python 3
 python subject-marks-dictionary.py
 
 
-#Laerning:
+# Laerning:
 <br>
 1.Dictionary creation.
 <br>
