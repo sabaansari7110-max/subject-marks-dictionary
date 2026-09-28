@@ -11,7 +11,7 @@ A simple python program that takes of three subjects the user and stores them a 
 
 ## Techonologies used:
 <br>
-Python 3
+Python (latest version)
 
 ## Example output:
 
